@@ -8,5 +8,6 @@ MR
 
 bachelor_exm.js - Code samples included in the Bachelor Thesis in 2015
                 - Communication with REST API, Google Charts API and more..
-example.j  - Code samples included in school project in 2016 - 2017
+                
+example.js  - Code samples included in school project in 2016 - 2017
   
